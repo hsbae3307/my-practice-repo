@@ -35,3 +35,5 @@ cd .. 작업 후 그냥 python 입력시 vscode 내장된 3.10버전 실행됨.
 
 `vim ~/.bashrc`
 `source ~/.bashrc`
+
+abc
